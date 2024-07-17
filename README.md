@@ -2,7 +2,6 @@ Hi, I'm Aryo. I have experiences on Infras and Software Development and currentl
 
 📫 **How to reach me**
 
-[![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=telegram&style=social)](https://t.me/aryonp) 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/aryonp)
 
 🌐 **Visit my other profiles**
